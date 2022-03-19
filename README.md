@@ -70,26 +70,26 @@ Let’s take a look at the customer scenario: "Our security team is asking for h
 
 - You can create and use a new GitHub repository to develop and present the solution
 - Assume you are the named GitHub contact for the customer. You will build and present the example to the customer
-- GitHub has more than one API interface along with API libraries. Be prepared to explain the hows and whys in your design
-- Technical guidance: Organization events and protected branches are useful features to help drive your solution. Also, don’t forget to check the GitHub Docs
+- GitHub has more than one [API](https://docs.github.com/en/developers/overview/about-githubs-apis) interface along with API libraries. Be prepared to explain the hows and whys in your design
+- Technical guidance: [Organization events](https://docs.github.com/en/developers/webhooks-and-events/webhooks/about-webhooks#events) and protected branches are useful features to help drive your solution. Also, don’t forget to check the [GitHub Docs](https://docs.github.com/en)
 - The first branch in a new GitHub repository will be created once a commit has been made. One idea is to have a README created with each new repository, so that the first branch is created
 - Documentation is highly valued at GitHub
 
 ## Solution requirements
 
-We are most interested in your approach, the mindset you apply, and how the solution is presented to your customer. The technical solution to accomplish this is to listen for organization events to know when a repository has been created. When the repository is created, please automate the protection of the default branch. Notify yourself with an @mention in an issue within the repository that outlines the protections that were added.
+We are most interested in your approach, the mindset you apply, and how the solution is presented to your customer. The technical solution to accomplish this is to listen for [organization events](https://docs.github.com/en/developers/webhooks-and-events/webhooks/about-webhooks#events) to know when a repository has been created. When the repository is created, please automate the protection of the default branch. Notify yourself with an [@mention](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#mentioning-users-and-teams) in an issue within the repository that outlines the protections that were added.
 
 ## Some things you will need
 
 - A GitHub account
 - An organization (you can create one for free)
 - A repository to store your solution/presentation. We will look at this together in our next conversation
-- A component that listens for webhook deliveries. We don’t require a specific technology/runtime, use languages and tools you are already familiar with We strongly recommend using languages and tools you are already familiar with.
+- A component that listens for [webhook](https://docs.github.com/en/developers/webhooks-and-events/webhooks/about-webhooks) deliveries. We don’t require a specific technology/runtime, use languages and tools you are already familiar with We strongly recommend using languages and tools you are already familiar with.
 - A README.md file in your web service's repository that documents how to run and use your solution. 
 
 ## Challenge delivery
 
-Please use the Greenhouse link in this email to submit the web address of your GitHub org for the solution you created upon completion. If you make the repository public our team members can view the repository.
+Please use the [Greenhouse link](https://app.greenhouse.io/tests/4e32559124a1581a0f3fa27f6840a840) to submit the web address of your GitHub org for the solution you created upon completion. If you make the repository public our team members can view the repository.
 
 ## Attribution
 
