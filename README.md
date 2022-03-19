@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Legendary Octo Journey" />
+ <img width="100px" src="https://avatars.githubusercontent.com/u/101950250?s=200&v=4" align="center" alt="Legendary Octo Journey" />
  <h2 align="center">Legendary Octo Journey</h2>
 </p>
   <p align="center">
