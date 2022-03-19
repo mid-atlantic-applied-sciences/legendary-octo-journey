@@ -1,6 +1,7 @@
 <p align="center">
  <img width="100px" src="https://avatars.githubusercontent.com/u/101950250?s=200&v=4" align="center" alt="Legendary Octo Journey" />
- <h2 align="center">Legendary Octo Journey</h2>
+ <h3 align="center">Technical Interview Solution</h3>
+ <h3 align="center">Made for :octocat: with :heart: + :coffee:</h3>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
@@ -71,9 +72,3 @@
   - [Language Card Exclusive Options](#language-card-exclusive-options)
   - [Wakatime Card Exclusive Option](#wakatime-card-exclusive-options)
 - [Deploy Yourself](#deploy-on-your-own-vercel-instance)
-
----
-
-<!-- big thanks to anuraghazra and Vercel for the demo -->
-
-Made with :heart: + :coffee:
