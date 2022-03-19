@@ -72,6 +72,8 @@
   - [Wakatime Card Exclusive Option](#wakatime-card-exclusive-options)
 - [Deploy Yourself](#deploy-on-your-own-vercel-instance)
 
+---
+
 <!-- big thanks to anuraghazra and Vercel for the demo -->
 
 Made with :heart: + :coffee:
