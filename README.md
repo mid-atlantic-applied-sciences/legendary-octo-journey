@@ -62,6 +62,12 @@
 
 - [Customer scenario](#customer-scenario)
 
+# Solution
+
+1. Navigate to repository `Settings` page.
+2. Navigate to `Webhooks`, under `Code and automation`.
+3. Click `Add webhook` button. (Confirm access/authorization by logging in, if prompted).
+
 # Customer scenario
 
 "Our security team is asking for help ensuring proper reviews are being done to code being added into our repositories. We have hundreds of repositories in our organization. What is the best way we can achieve at scale? We are new to some of the out-of-the-box settings and the GitHub API. Can you please help us create a solution that will accomplish this for our security team?"
