@@ -64,10 +64,23 @@
 
 # Solution
 
+## Free solution with webhooks
+
 1. Create an organization secret if one does not exist already and assign it to relevant repositories.
 2. Navigate to repository `Settings` page.
 3. Navigate to `Webhooks`, under `Code and automation`.
 4. Click `Add webhook` button. (Confirm access/authorization by logging in, if prompted).
+
+## Paid solution with branch protection
+
+- [Require pull request reviews before merging](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches#require-pull-request-reviews-before-merging)
+- [Require status checks before merging](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches#require-status-checks-before-merging): "Required status checks ensure that all required CI tests are passing before collaborators can make changes to a protected branch. Required status checks can be checks or statuses. For more information, see [About status checks](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-status-checks)."
+- [Restrict who can push to matching branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches#restrict-who-can-push-to-matching-branches)
+
+## Free/Paid tier 3rd part solution from the GitHub marketplace
+
+- [Codacy](https://github.com/marketplace/codacy)
+- [CodeFactor](https://github.com/marketplace/codefactor/plan/MLP_kgDNG7Y#pricing-and-setup)
 
 # Customer scenario
 
