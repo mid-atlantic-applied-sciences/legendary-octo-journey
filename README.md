@@ -93,4 +93,4 @@ Please use the [Greenhouse link](https://app.greenhouse.io/tests/4e32559124a1581
 
 ## Attribution
 
-Feel free to use existing resources to complete this task. If you use external resources please note them in the README of your repository. Let me know if you have any questions.
+Feel free to use existing resources to complete this task. If you use external resources please note them in the README of your repository.
