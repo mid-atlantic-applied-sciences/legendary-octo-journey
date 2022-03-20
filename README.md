@@ -81,9 +81,9 @@ We are most interested in your approach, the mindset you apply, and how the solu
 
 ## Some things you will need
 
-- A GitHub account
-- An organization (you can create one for free)
-- A repository to store your solution/presentation. We will look at this together in our next conversation
+- [x] A GitHub account
+- [x] An organization (you can create one for free)
+- [x] A repository to store your solution/presentation. We will look at this together in our next conversation
 - A component that listens for [webhook](https://docs.github.com/en/developers/webhooks-and-events/webhooks/about-webhooks) deliveries. We don’t require a specific technology/runtime, use languages and tools you are already familiar with We strongly recommend using languages and tools you are already familiar with.
 - A README.md file in your web service's repository that documents how to run and use your solution. 
 
