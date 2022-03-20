@@ -79,8 +79,8 @@
 
 ## Free/Paid tier 3rd part solution from the GitHub marketplace
 
-- [Codacy](https://github.com/marketplace/codacy)
-- [CodeFactor](https://github.com/marketplace/codefactor/plan/MLP_kgDNG7Y#pricing-and-setup)
+- [Codacy](https://github.com/marketplace/codacy) is an automated code analysis/quality tool that helps developers ship better software, faster.
+- [CodeFactor](https://github.com/marketplace/codefactor/plan/MLP_kgDNG7Y#pricing-and-setup) instantly performs Code Review with every GitHub Commit or PR.
 
 # Customer scenario
 
