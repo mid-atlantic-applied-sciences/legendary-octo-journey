@@ -64,9 +64,10 @@
 
 # Solution
 
-1. Navigate to repository `Settings` page.
-2. Navigate to `Webhooks`, under `Code and automation`.
-3. Click `Add webhook` button. (Confirm access/authorization by logging in, if prompted).
+1. Create an organization secret if one does not exist already and assign it to relevant repositories.
+2. Navigate to repository `Settings` page.
+3. Navigate to `Webhooks`, under `Code and automation`.
+4. Click `Add webhook` button. (Confirm access/authorization by logging in, if prompted).
 
 # Customer scenario
 
