@@ -81,7 +81,7 @@
 - [Require status checks before merging](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches#require-status-checks-before-merging): "Required status checks ensure that all required CI tests are passing before collaborators can make changes to a protected branch. Required status checks can be checks or statuses. For more information, see [About status checks](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-status-checks)."
 - [Restrict who can push to matching branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches#restrict-who-can-push-to-matching-branches)
 
-## GitHub solution with GitHub [Workflows](https://docs.github.com/en/actions/using-workflows) and/or GitHub marketplace [actions](https://github.com/marketplace?type=actions&query=code+review+) (free + paid)
+## GitHub solution with GitHub [Workflows](https://docs.github.com/en/actions/using-workflows) and/or GitHub marketplace [actions](https://github.com/marketplace?type=actions&query=code+review+)
 
 💵 free + paid options
 
