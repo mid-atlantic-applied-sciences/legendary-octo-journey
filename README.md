@@ -60,7 +60,7 @@
 
 # Table of Contents
 
-- [Customer scenario](#customer-scenario)
+- @TODO
 
 # Solution
 
